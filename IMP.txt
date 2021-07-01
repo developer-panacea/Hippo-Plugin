@@ -1,0 +1,4 @@
+1)Put plugin folder in domain/wp-content/plugins folder
+2)put functions.php code in domain/wp-content/themes/theme-name/function.php file
+3)put js file in domain/wp-content/themes/theme-name/assets/js folder
+4)create one page and add shortcode [myform] in that page it will display form on that page
